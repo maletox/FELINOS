@@ -1,0 +1,36 @@
+
+h1 {
+    background-color:#D4CE16;
+	font-family:Verdana;
+	font-size:250%;
+	color:#6E5314;
+}
+
+h2 {
+    background-color:#774A86;
+	font-family:Comic Sans MS;
+	font-size:150%;
+	color:BLACK;
+}
+
+
+h3 {
+    background-color:#3F817B;
+	font-family:Arial Black;
+	font-size:100%;
+	color:white;
+}           
+
+p {
+	font-family:Calibri;
+}
+
+body {
+    background-color:#CFCFCF;
+    margin:0 4px 0 0;
+    border:5px solid;
+}
+
+ul {
+  border: 1px solid #555;
+}
